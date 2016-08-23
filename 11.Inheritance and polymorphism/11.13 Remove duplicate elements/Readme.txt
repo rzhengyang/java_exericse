@@ -1,0 +1,5 @@
+input and out put example(input 10 numbers):
+
+34 5 3 5 6 4 33 2 2 4
+ 34 5 3 5 6 4 33 2 2 4
+ 34 5 3 6 4 33 2

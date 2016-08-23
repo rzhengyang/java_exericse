@@ -1,0 +1,1 @@
+I just finished add method (because I'm lazy:)
